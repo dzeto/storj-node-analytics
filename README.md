@@ -1,4 +1,4 @@
-# storj-node-analytics
+# storj-node-analytics | Monitor multiple Storj nodes from a single dashboard
 The Storj Node Analytics project is a powerful and versatile PHP-based tool designed to provide comprehensive monitoring and management capabilities for Storj nodes, whether you're running a single node or managing multiple nodes in a decentralized network. Storj, a leading decentralized cloud storage platform, relies on a network of nodes operated by individuals and organizations. Keeping a watchful eye on these nodes is crucial to ensure their optimal performance and reliability.
 
 **Key Features**:
